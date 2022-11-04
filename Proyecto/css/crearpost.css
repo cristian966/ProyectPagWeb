@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+/*font-family: 'Bungee', cursive;*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+/*font-family: 'Righteous', cursive;*/
+
+.t1{
+    font-family: 'Bungee', cursive;
+}
+
+
+
+.enlaces2{
+    font-size: 14px;
+    text-align: center;
+    width: 200px;
+    display: inline-block;
+    background-color: #FABD44;
+    padding: 6px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+span{
+    
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.registrarpost{
+    margin-top: 10px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    /*background-color: aqua;*/
+}
+
+.tablavisuPost{
+    
+    align-items: center;
+    align-content: center;
+    text-align: left;
+    background-color: #EFEFEF;
+   border-spacing: 10px 5px;
+   border-radius: 10px;
+    
+}
+
+.tdpost1{
+    border-bottom: 1px solid black;
+    height: 50px;
+    width: 100px;
+    font-family: 'Righteous', cursive;
+}
+.tdpost{
+    border-bottom: 1px solid black;
+    height: 50px;
+    /*border-left: 1px solid black;*/
+    font-family: 'Righteous', cursive;
+}
+
+.enlacecat{
+    color: black;
+    text-decoration: none;
+}
+
+.divtabla{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.buscarcentrado{
+    display: grid;
+    align-items: left;
+    justify-content: left;
+    margin-left: 300px;
+}
+
+.enlaces3{
+    font-size: 14px;
+    text-align: center;
+    /*width: 200px;*/
+    display: inline-block;
+    background-color: #FABD44;
+    padding: 6px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+}

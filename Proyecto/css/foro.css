@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+/*font-family: 'Bungee', cursive;*/
+
+.Fondoforo{
+    background-image: url(../img/fondoForo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divtabla{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+}
+
+table{
+    justify-content: center;
+    align-items: center;
+    border-spacing: 20px;
+    font-family: 'Bungee', cursive
+
+}
+
+td{
+    
+    border-bottom: solid black 4px;
+    font-size: larger;
+    
+}
+
+.h1titulo{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 5px;
+}
+.h1titulo1{
+    border-radius: 5px;
+    font-family: 'Bungee', cursive
+}
+
+/*.buscar{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}*/

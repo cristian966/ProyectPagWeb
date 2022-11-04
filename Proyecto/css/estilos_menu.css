@@ -1,0 +1,40 @@
+.menu_centrado {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari y otros */
+    position: sticky;
+    top: 0;
+    font-size: 28px;
+    border-radius: 10px;
+    /*border: 2px solid #333;*/
+    /*box-shadow: #FABD44 0px 5px;*/
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}

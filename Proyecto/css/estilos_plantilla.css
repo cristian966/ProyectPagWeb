@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+/*font-family: 'Bungee', cursive;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+/*font-family: 'Ramaraja', serif;*/
+
+.divgeneral{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.divPadreP {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #D1D1D1;
+    border-radius: 10px;
+    width: 100%;
+    
+}
+
+.imagenP{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.parraf{
+    min-width:250px;
+    max-width: 1200px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align:justify;
+	text-justify:inter-word;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Ramaraja', serif;
+    font-size: x-large;
+    letter-spacing: normal;
+}
+
+.PiePag{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: black;
+}
+
+
+.nombre{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-family: 'Bungee', cursive;
+}
+.fondo {
+    background-color: #1A1A40;
+}
+
+.imagen1 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 500px;
+    min-height: 500px;
+    max-width: 500px;
+    max-height: 500px;
+    border: black solid 3px;
+    border-radius: 10px;
+    margin-top: 10px;
+}

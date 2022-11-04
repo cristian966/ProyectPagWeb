@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+/*font-family: 'Bungee', cursive;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+/*font-family: 'Ramaraja', serif;*/
+
+.divtabla{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+    
+}
+
+.tablavisucomentario{
+    text-align: justify;
+    text-justify: inter-word;
+    background-color: #D1D1D1;
+   border-spacing: 10px 5px;
+   border-radius: 10px;
+   margin: 0 auto;
+   font-family: 'Ramaraja', serif;
+   font-size: larger;
+}
+
+.tdcomentarios{
+    border-bottom: 1px solid black;
+    height: 50px;
+    /*border-left: 1px solid black;*/
+}
+
+.tdcomentarios1{
+    border-bottom: 1px solid black;
+    height: 50px;
+    width: 100px;
+}
+
+/*.cajatexto{
+    width: 20%;
+    height: 20%;
+}*/
+
+.tablacomentario{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+   
+}
+
+.registrarcomentario{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    /*background-color: aqua;*/
+}
+
+.enlaces2{
+    font-size: 14px;
+    text-align: center;
+    width: 200px;
+    display: inline-block;
+    background-color: #FABD44;
+    padding: 6px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+span{
+    
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.titulo2 {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    /* border: blueviolet solid 1px; */
+    /*background-color: black;*/
+    border-radius: 10px;
+}
+
+.titulo3 {
+    /* border: blueviolet solid 1px; */
+    background-color: #EFEFEF;
+    border-radius: 10px;
+    font-family: 'Bungee', cursive;
+}
+.textopostdiv{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.textopost{
+    max-width: 1200px;
+    background-color: #D1D1D1;
+    border-radius: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'Ramaraja', serif;
+    font-size: x-large;
+}
+
+/*.centrarTabla{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}*/
